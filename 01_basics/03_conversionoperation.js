@@ -76,5 +76,21 @@ console.log(scoreInNum)    Boolean(FALSE) TO NUMBER WE GET 0
  console.log(typeof isScore)
  console.log(isScore)   "" TO BOOLEAN WE GET FALSE 
 
+ ******************************OPERATIONS***************************************** */
+
+ let value = 3
+ let negvalue = -value
+//  console.log(negvalue)
+
+let str1 = "hello"
+let str2 = " manisha"
+let str3 = str1 + str2
+// console.log(str3)
+
+// console.log(1 + "2")
+// console.log("1" + 2)
+// console.log("1" + 2 + 2)
+// console.log(1 + 2 + "2")
+
 
 
